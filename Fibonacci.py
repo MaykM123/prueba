@@ -14,4 +14,4 @@ while True:
     finFibo = finFibo + iniFibo
     iniFibo = finFibo - iniFibo
 
-print(f'\nPosición Final:{x+1} -- Valor en la serie de Fibonacci:{sum}')
+    print(f'\nPosición Final:{x+1} -- Valor en la serie de Fibonacci123:{sum}')
